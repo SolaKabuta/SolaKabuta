@@ -9,6 +9,6 @@ Crafting unique solutions through the alchemy of creativity and curiosity.
 
 
 ```console
-git checkout "..." : <strong>Sola Kabuta</strong>
+Sola Kabuta
 ```
 
