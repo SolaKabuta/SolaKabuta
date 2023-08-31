@@ -7,4 +7,8 @@ Passionate about technology, I am currently shaping my future as a budding web d
 
 Crafting unique solutions through the alchemy of creativity and curiosity.
 
-<strong>Sola Kabuta</strong>
+
+```console
+git checkout "..." : <strong>Sola Kabuta</strong>
+```
+
