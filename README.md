@@ -9,7 +9,7 @@ Junior Web Dev - Designer - Digital Dreamer
 
 Based in Bruxelles / Belgium
 
-[![Sola's GitHub stats](https://github-readme-stats.vercel.app/apiSolaKabuta=solakabuta)](https://github.com/SolaKabuta/github-readme-stats)
+
 
 # Skills 
 
