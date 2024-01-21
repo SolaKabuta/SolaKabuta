@@ -7,7 +7,7 @@ Passionate about technology, I am currently shaping my future as a budding web d
 
 Junior Web Dev - Designer - Digital Dreamer
 
-Based in Belgium
+Based in Bruxelles / Belgium
 
 # Skills 
 
