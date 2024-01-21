@@ -11,7 +11,7 @@ Based in Belgium
 
 # Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,wordpress,sass,xd,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,wordpress,sass,xd,ai,figma)](https://skillicons.dev)
 
 
 # Where to find me 
