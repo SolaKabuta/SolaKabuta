@@ -9,6 +9,8 @@ Junior Web Dev - Designer - Digital Dreamer
 
 Based in Bruxelles / Belgium
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiSolaKabuta=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 # Skills 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,wordpress,sass,xd,ai,figma,vite,vscode,git,github)](https://skillicons.dev)
