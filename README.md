@@ -9,12 +9,12 @@ Junior Web Dev - Designer - Digital Dreamer
 
 Based in Belgium
 
-# Skills :
+# Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,wordpress,sass,xd,ai,figma)](https://skillicons.dev)
 
 
-# Where to find me :
+# Where to find me 
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
