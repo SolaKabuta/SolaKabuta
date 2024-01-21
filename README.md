@@ -9,6 +9,9 @@ Junior Web Dev - Designer - Digital Dreamer
 
 Based in Belgium
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 
 ```console
 Sola Kabuta
