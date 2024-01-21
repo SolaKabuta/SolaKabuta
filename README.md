@@ -9,6 +9,8 @@ Junior Web Dev - Designer - Digital Dreamer
 
 Based in Belgium
 
+# Skills :
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
