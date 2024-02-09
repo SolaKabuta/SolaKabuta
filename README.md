@@ -13,7 +13,7 @@ Based in Bruxelles / Belgium
 
 # Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,wordpress,sass,xd,ai,figma,vite,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,wordpress,sass,xd,ai,figma,vite,vscode,jetbrains,git,github)](https://skillicons.dev)
 
 
 
