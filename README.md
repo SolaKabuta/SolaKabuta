@@ -9,7 +9,7 @@ Junior Web Dev - Designer - Digital Dreamer
 
 Based in Bruxelles / Belgium
 
-<a href="https://app.daily.dev/sola"><img src="https://api.daily.dev/devcards/v2/5dRblN6otUT3H5SVNN7iN.png?type=default&r=v6m" width="356" alt="Sola Kabuta's Dev Card"/></a>
+<a href="https://app.daily.dev/sola"><img src="https://api.daily.dev/devcards/v2/5dRblN6otUT3H5SVNN7iN.png?type=default&r=gsq" width="356" alt="Sola Kabuta's Dev Card"/></a>
 
 
 
