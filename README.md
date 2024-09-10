@@ -5,7 +5,7 @@ I'm <strong>Sola</strong>,
 
 Passionate about technology, I am currently shaping my future as a budding web developer 🌱 @ <a href="https://becode.org/">BeCode</a> Bruxelles.
 
-Junior Web Dev - Designer - Digital Dreamer
+Front-End Dev - Designer - Digital Dreamer
 
 Based in Bruxelles / Belgium
 
@@ -15,7 +15,7 @@ Based in Bruxelles / Belgium
 
 # Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwind,wordpress,sass,xd,ai,figma,vite,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,nuxt,tailwind,wordpress,sass,xd,ai,figma,vite,vscode,github)](https://skillicons.dev)
 
 
 
