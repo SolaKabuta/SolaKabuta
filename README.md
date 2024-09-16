@@ -15,7 +15,7 @@
 const solaKabuta = {
     pronunciation: "Sho.la",
     code: ["TypeScript", "Javascript"],
-    askMeAbout: ["web dev", "UI/UX", "cocktails"],
+    askMeAbout: ["web dev", "UI/UX", "comics"],
     technologies: {
         frontEnd: {
             ts: ["Vue"], ["Nuxt.js"]
