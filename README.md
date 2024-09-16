@@ -8,11 +8,10 @@ Former bartender turned Front-End Developer - Web Designer - Digital Dreamer
 Based in Brussels / Belgium
 
 
-```console
-bun Sola
-```
 
-```console
+About my tech stack :
+
+```bash
 const solaKabuta = {
     pronouns: "He" | "Him",
     code: ["TypeScript", "Javascript"],
