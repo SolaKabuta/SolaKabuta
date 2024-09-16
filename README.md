@@ -3,13 +3,13 @@
 
 I'm <strong>Sola</strong>,
 
-Passionate about technology, I am currently shaping my future as a budding web developer 🌱 @ <a href="https://becode.org/">BeCode</a> Bruxelles.
+Front-End Developer - Web Designer - Digital Dreamer
 
-Front-End Dev - Designer - Digital Dreamer
-
-Based in Bruxelles / Belgium
+Based in Brussels / Belgium
 
 <a href="https://app.daily.dev/sola"><img src="https://api.daily.dev/devcards/v2/5dRblN6otUT3H5SVNN7iN.png?type=default&r=gsq" width="356" alt="Sola Kabuta's Dev Card"/></a>
+
+
 
 
 
@@ -24,4 +24,3 @@ Based in Bruxelles / Belgium
 ```console
 Sola Kabuta
 ```
-
