@@ -48,7 +48,7 @@ const solaKabuta = {
 
 # Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue,nuxt,vite,tailwind,sass,wordpress,xd,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,next,vite,tailwind,sass,wordpress,xd,ai,figma)](https://skillicons.dev)
 
 
 
