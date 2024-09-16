@@ -1,26 +1,26 @@
-<h1>Hello</h1>
+✌🏾 <h1>Hello</h1>
 
 
-I'm <strong>Sola</strong>,
+🌚 I'm <strong>Sola</strong>,
 
-Former bartender turned Front-End Developer - Web Designer - Digital Dreamer
+🍸 Former bartender turned Front-End Developer - Web Designer - Digital Dreamer
 
-Based in Brussels / Belgium
+📍 Based in Brussels / Belgium
 
 
 
-About my tech stack :
+👾 About my tech stack :
 
 ```bash
 const solaKabuta = {
-    pronouns: "He" | "Him",
+    pronunciation: "Sho.la",
     code: ["TypeScript", "Javascript"],
     askMeAbout: ["web dev", "UI/UX", "cocktails"],
     technologies: {
         frontEnd: {
             ts: ["Vue"], ["Nuxt.js"]
             js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
+            css: ["Tailwind", "Sass"],
             uiLibraries: ["Shadcn UI", "Aceternity", "Magic UI", "Nuxt UI", "Headless UI"],
         },
         backEnd: {
