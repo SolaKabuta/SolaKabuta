@@ -35,7 +35,7 @@ const solaKabuta = {
             wordpress: [""],
             prototype: ["Elementor"],
         },
-    currentFocus: "Learning GSAP/animations, sharpening existing ones",
+    currentFocus: "Learning GSAP/animations",
     funFact: "Sometimes I do touch grass.. No I'm kidding, actually trying to exit vim.."
 };
 ```
