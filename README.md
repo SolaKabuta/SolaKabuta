@@ -20,7 +20,7 @@ const solaKabuta = {
         frontEnd: {
             ts: ["Vue"], ["Nuxt.js"]
             js: ["React", "Next.js"],
-            css: ["Tailwind", "Sass"],
+            css: ["Tailwind", "Scss"],
             uiLibraries: ["Shadcn UI", "Aceternity", "Magic UI", "Nuxt UI", "Headless UI"],
         },
         backEnd: {
@@ -36,7 +36,7 @@ const solaKabuta = {
             prototype: ["Elementor"],
         },
     currentFocus: "Learning new skills, sharpening existing ones",
-    funFact: "Sometimes I do touch grass!"
+    funFact: "Sometimes I do touch grass.. No I'm kidding, actually trying to exit vim.."
 };
 ```
 
@@ -48,7 +48,7 @@ const solaKabuta = {
 
 # Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,next,vite,tailwind,sass,wordpress,xd,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,next,vite,wordpress,tailwind,sass,xd,ai,figma)](https://skillicons.dev)
 
 
 
