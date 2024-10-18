@@ -7,6 +7,12 @@
 
 📍 Based in Brussels / Belgium
 
+🚀 Currently learning Vue.js/Nuxt.js
+
+🌿 Fun fact : sometimes I do touch grass
+
+
+
 
 
 <a href="https://app.daily.dev/sola"><img src="https://api.daily.dev/devcards/v2/5dRblN6otUT3H5SVNN7iN.png?type=default&r=gsq" width="356" alt="Sola Kabuta's Dev Card"/></a>
