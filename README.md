@@ -15,11 +15,6 @@
 
 
 
-<a href="https://app.daily.dev/sola"><img src="https://api.daily.dev/devcards/v2/5dRblN6otUT3H5SVNN7iN.png?type=default&r=gsq" width="356" alt="Sola Kabuta's Dev Card"/></a>
-
-
-
-
 # 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,next,vite,wordpress,tailwind,sass,xd,ai,figma)](https://skillicons.dev)
@@ -29,6 +24,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=SolaKabuta&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SolaKabuta&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SolaKabuta&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+<a href="https://app.daily.dev/sola"><img src="https://api.daily.dev/devcards/v2/5dRblN6otUT3H5SVNN7iN.png?type=default&r=gsq" width="356" alt="Sola Kabuta's Dev Card"/></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SolaKabuta&icon=2&color=8)](https://visitcount.itsvg.in)
