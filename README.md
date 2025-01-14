@@ -3,13 +3,13 @@
 
 🌚 I'm <strong>Sola</strong>,
 
-🍸 Former bartender turned Front-End Developer - Web Designer - Digital Dreamer
+🍸 Former bartender turned Developer & Web Designer
 
 📍 Based in Brussels / Belgium
 
-🚀 Currently learning Vue.js/Nuxt.js
+🚀 Currently learning Vue.js/Nuxt.js, PHP and Python
 
-🌿 Fun fact : sometimes I do touch grass
+🌿 Fun fact : sometimes I do touch grass, now I know is toxic
 
 
 
