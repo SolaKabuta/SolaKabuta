@@ -30,7 +30,7 @@
 <a href="https://app.daily.dev/sola"><img src="https://api.daily.dev/devcards/v2/5dRblN6otUT3H5SVNN7iN.png?type=default&r=gsq" width="356" alt="Sola Kabuta's Dev Card"/></a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SolaKabuta&icon=2&color=8)](https://visitcount.itsvg.in)
+
 
 
 ```console
