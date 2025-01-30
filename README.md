@@ -15,7 +15,7 @@
 
 
 
-# 💻 Tech Stack:
+### 💻 Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,next,vite,wordpress,tailwind,sass,xd,ai,figma)](https://skillicons.dev)
 
