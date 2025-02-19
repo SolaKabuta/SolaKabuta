@@ -21,10 +21,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SolaKabuta&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=SolaKabuta&theme=blueberry&hide_border=true)<br/>
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=SolaKabuta&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false) 
 ---
 
 
