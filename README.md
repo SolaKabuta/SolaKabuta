@@ -1,16 +1,18 @@
-<h1>Hello</h1>
+// Sola Kabuta — Front-End Dev // Terminal-addict // CSS Wizardry Enthusiast
+
+Hi, I’m Sola 👋
+Currently trapped in Neovim, send help (or at least a good theme).
+
+I build bold, fast, slightly overdesigned websites with React, Next & Tailwind (I tried Bootstrap a couple times and now I know why there's "trap" in the name).
+Learning to juggle PHP, Symfony, Next.js, and way too many tutorials on "How to write a clean controller".
+
+Occasionally talks to databases, lover of pixel-perfect UIs, brutalist design, and shortcuts I will 100% forget tomorrow.
+I'm a developer with a designer’s brain and a terminal full of tabs (Don't even think about watching tabs on my browser).
+
+✨ Motto: “Eating code is better than eating sh***.”
 
 
-I'm <strong>Sola</strong>,
-Former bartender turned Developer & Web Designer, based in Brussels / Belgium.
-Currently learning PHP (MVC,PDO), SQL, Javascript and Python while losing hairs in Neovim.
-Fun fact : sometimes I do touch grass, now I know is toxic.
-
-
-
-### 💻 Stack:
-
-[![My Skills](https://skillicons.dev/icons?i=next,vite,vue,nuxt,react,wordpress,tailwind,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,figma)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
