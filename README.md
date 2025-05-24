@@ -1,6 +1,6 @@
 // Sola Kabuta — Front-End Dev // Terminal-addict // CSS Wizardry Enthusiast
 
-Hi, I’m Sola 👋
+Hi, I’m Sola (Sho.la  --> That's the way it's pronounced, try it out loud, it will be okay) 👋
 Currently trapped in Neovim, send help (or at least a good theme).
 
 I build bold, fast, slightly overdesigned websites with React, Next & Tailwind (I tried Bootstrap a couple times and now I know why there's "trap" in the name).
