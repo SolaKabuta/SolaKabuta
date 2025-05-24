@@ -2,16 +2,9 @@
 
 
 I'm <strong>Sola</strong>,
-
-🍸 Former bartender turned Developer & Web Designer
-
-📍 Based in Brussels / Belgium
-
-🚀 Currently learning PHP (MVC,PDO), SQL, Javascript and Python while losing hairs in Neovim
-
-🌿 Fun fact : sometimes I do touch grass, now I know is toxic
-
-
+Former bartender turned Developer & Web Designer, based in Brussels / Belgium.
+Currently learning PHP (MVC,PDO), SQL, Javascript and Python while losing hairs in Neovim.
+Fun fact : sometimes I do touch grass, now I know is toxic.
 
 
 
