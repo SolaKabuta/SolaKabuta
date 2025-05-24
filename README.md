@@ -12,8 +12,6 @@ I'm a developer with a designer’s brain and a terminal full of tabs (Don't eve
 ✨ Motto: “Eating code is better than eating sh***.”
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,figma)](https://skillicons.dev)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SolaKabuta&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false) 
