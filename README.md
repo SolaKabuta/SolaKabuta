@@ -1,4 +1,4 @@
-// Sola Kabuta — Front-End Dev - Learning Back-End // Terminal-addict // CSS Wizardry Enthusiast
+Sola Kabuta — Front-End Dev - Learning Back-End // Terminal-addict // CSS Wizardry Enthusiast
 
 Hi, I’m Sola (Sho.la  --> That's how it's pronounced, say it out loud, it will be okay) 👋
 
