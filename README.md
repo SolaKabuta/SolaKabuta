@@ -16,7 +16,7 @@ I'm a developer with a designer’s brain and a terminal full of tabs (Don't eve
 
 
 ![](https://github-readme-stats.vercel.app/api?username=SolaKabuta&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolaKabuta&theme=blueberry&hide_border=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolaKabuta&theme=blueberry&hide_border=truecompact)
 ---
 
 
