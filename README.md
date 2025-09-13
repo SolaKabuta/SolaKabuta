@@ -14,7 +14,7 @@ I'm a developer with a designer’s brain and a terminal full of tabs (Don't eve
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SolaKabuta&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height=600 align="center" src="https://github-readme-stats.vercel.app/api?username=SolaKabuta&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=600 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolaKabuta&layout=donut-vertical&theme=blueberry&hide_border=true&card_width=320&langs_count=8" />
