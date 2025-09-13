@@ -13,10 +13,15 @@ I'm a developer with a designer’s brain and a terminal full of tabs (Don't eve
 ✨ Motto: “Eating code is better than eating sh***.”
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="![](https://github-readme-stats.vercel.app/api?username=SolaKabuta&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false) " />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolaKabuta&layout=compact&theme=blueberry&hide_border=true)card_width=320" />
+</a>
 
 
-![](https://github-readme-stats.vercel.app/api?username=SolaKabuta&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolaKabuta&layout=compact&theme=blueberry&hide_border=true)
+
 ---
 
 
