@@ -13,11 +13,6 @@ I'm a developer with a designer’s brain and a terminal full of tabs (Don't eve
 Motto: “Eating code is better than.. not eating at all? Nevermind.”
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=600 align="center" src="https://github-readme-stats.vercel.app/api?username=SolaKabuta&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false" />
-</a>
-
-
 
 
 ---
