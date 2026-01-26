@@ -1,6 +1,6 @@
-Front-End Dev // Terminal-addict // CSS-JS Wizardry Enthusiast
+Front-End Developer & Web Designer
 
-Hi, I’m Sola (Sho.la) 
+Hi, I’m Sola (Sho.la) !
 
 I build bold, fast, slightly overdesigned websites.
 Constantly learning, actually digging through PHP while rebuilding my portfolio for the 7th time.
